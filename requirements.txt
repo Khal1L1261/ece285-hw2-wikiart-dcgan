@@ -1,0 +1,8 @@
+torch==2.10.0
+torchvision==0.25.0
+pytorch-ignite==0.5.5
+numpy
+scipy
+Pillow
+requests
+matplotlib

@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+image_cache/
+eval_lib/
+torch/
+wikiart.npy
+*.pt

@@ -1,0 +1,1 @@
+At epoch 1, many tiles share a mottled orange texture and a dark horizontal band. By epoch 40, the same latent draws yield pale backgrounds, localized dark forms, and several blue-green or ochre compositions. Broad shapes are visible, while individual subjects often remain ambiguous.
